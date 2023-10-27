@@ -275,7 +275,6 @@ nav.show .icon-close {
 #home .image img {
   position: relative;
   right: 2.93rem;
-  box-shadow: 0 0 1.5em var(--shadow-color);
 }
 
 #home .image img,
@@ -311,9 +310,10 @@ nav.show .icon-close {
   position: relative;
 }
 
+
 #about .image img {
   position: relative;
-  box-shadow: 0 0 1.5em var(--shadow-color);
+  box-shadow: 0 0 .0em var(--shadow-color);
 }
 
 #about .image img,
